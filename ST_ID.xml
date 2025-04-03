@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<mlt>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="chain1" in="00:00:11.645" out="00:16:49.316"/>
+    <entry producer="chain2" in="00:20:21.788" out="00:33:50.317"/>
+    <entry producer="chain3" in="00:39:37.738" out="00:51:14.848"/>
+    <entry producer="chain4" in="00:56:02.135" out="01:04:50.384"/>
+    <entry producer="chain5" in="01:08:52.586" out="01:18:29.963"/>
+    <entry producer="chain6" in="01:23:17.684" out="01:31:54.688"/>
+    <entry producer="chain7" in="01:35:57.824" out="01:43:47.014"/>
+    <entry producer="chain8" in="01:48:54.121" out="01:57:26.360"/>
+    <entry producer="chain9" in="02:01:28.929" out="02:10:47.147"/>
+    <entry producer="chain10" in="02:16:40.841" out="02:25:37.771"/>
+    <entry producer="chain11" in="02:29:38.672" out="02:38:10.544"/>
+    <entry producer="chain12" in="02:43:43.810" out="02:52:33.800"/>
+    <entry producer="chain13" in="02:53:51.718" out="02:59:52.185"/>
+  </playlist>
+</mlt>
